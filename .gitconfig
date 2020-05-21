@@ -1,0 +1,8 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = Michael Murphy
+	email = m.b.murphy15@gmail.com
+	sslverify = false
+[core]
+	editor = vim
