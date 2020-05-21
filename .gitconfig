@@ -6,3 +6,5 @@
 	sslverify = false
 [core]
 	editor = vim
+[credential "helperselector"]
+	selected = manager
